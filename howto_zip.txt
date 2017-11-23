@@ -1,0 +1,13 @@
+Create Zip file with content of current Directory with php – ZipCF
+REF. 
+https://abdulawal.com/create-zip-file-with-content-of-current-directory-with-php-zipcf/
+
+-    Upload zipCF.php on the directory which you want to make zip file
+-    Open zipCF.php with your browser
+-    Provide a Name for the zip file
+-    Click on Create Zip file
+-    It will create the zip file if everything is ok and provide a success message just below the submit button
+-    If you see the success message, go to ftp client or browse direct url to zip file from your browser
+-    Download the newly created zip file
+-    Use it anyhow you need
+-    Delete zipCF.php file from your server to avoid security issues
