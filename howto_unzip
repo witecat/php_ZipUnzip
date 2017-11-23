@@ -1,0 +1,9 @@
+How to extract zip files on Web Server
+REF.
+https://abdulawal.com/how-to-extract-zip-files-easily-on-web-server/
+
+-    Upload the unzipper.php to your server (specifically inside the folder where you have the zip file to extract). Now, go to your browser and open the location of unzipper.php file.
+-    You’ll see a select input box which contains a list of zipped files in the folder. You can select any file and click on unzip archive.
+-    It will start working right away and display success message upon completion.
+-    Thats all you need to do…
+-    After it completes extraction, you’ll see a new folder in the folder where you had the zip file with name of the zip file. That’s the extracted folder!
